@@ -1,0 +1,2 @@
+# Exam-Schedule-Generater-Through-Genetic-Algorithm
+In this project, I have used Genetic algorithm to generate the exam schedule. In this algo, I used Roullete wheel selection for the selection part of algo. Moreover, I also had to apply the concepts of Constraints Satisfaction Problem in order to fulfill the constraints. There were 6 hard constraints and 4 soft constraints. I was able to meet all hard constraints and 3 of the softconstraints in this project. More details about project statement and the approach used can be found in the attached PDFs. 
